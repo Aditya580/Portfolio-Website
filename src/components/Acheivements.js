@@ -36,7 +36,7 @@ const Acheivements =()=>{
             name:'Won Runner-up Prize in Finding Error in C++',
             des:'I secured the runner-up prize in a "Finding Error in C++" competition, demonstrating my proficiency in debugging and problem-solving. This event tested participants ability to identify and correct errors in C++ code, and my strong analytical skills and attention to detail enabled me to excel, earning recognition for my technical capabilities',
             
-            images:'/A-5.jpg',
+            images:'/A-6.jpg',
 
         }
      ]);
