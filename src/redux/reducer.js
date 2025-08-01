@@ -1,14 +1,17 @@
-const initialState ={
-    activeTab :'home'
-}
-const rootReducer =(state = initialState ,action) => {
+const initialState = {
+  activeTab: 'Home',
+};
 
-    switch(action.type){
-        case 'ACTIVE_TAB':
-            return {...state, activeTab: action.payload}
-        default:
-            return state;
-    }
-}
+const reducer = (state = initialState, action) => {
+  switch (action.type) {
+    case 'CHANGE_TAB':
+      return {
+        ...state,
+        activeTab: action.payload,
+      };
+    default:
+      return state;
+  }
+};
 
-export default rootReducer;
+export default reducer;

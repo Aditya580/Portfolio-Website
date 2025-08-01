@@ -8,15 +8,17 @@ const Home = () => {
           My name is <span>ADITYA SHRIVASTAV</span>
         </div>
         <div className="des">
-        Recent BCA graduate from Rabindranath Tagore University, Bhopal, with a 9.4 SGPA. Proficient in Java and MERN stack development, with project experience and internships at DataNutts IT Solutions and IOTA Informatics. Certified in C, Java, and MERN Stack Development. Active in college events, mentoring, and winning competitions, showcasing strong technical and leadership skills.
+      Proactive MCA student with strong skills in Java, JavaScript, and full-stack (MERN) development.
+Hands-on project and internship experience at DataNutts IT Solutions and IOTA Informatics.
+Certified in C, Java, and MERN; passionate about building impactful, user-focused solutions.
         </div>
 
 
-        <a href="./Aditya_Shrivastav_Resume (2).pdf"target="_blank" rel="noopener noreferrer" download>Download My Resume</a>
+        <a href="./AdityaShrivastavResume.pdf"target="_blank" rel="noopener noreferrer" download>Download My Resume</a>
       </div>
       <div className="avatar">
         <div className="card">
-            <img src="./mypic.png"></img>
+            <img src="./Aditya_pic-removebg-preview.png"></img>
             <div className="info">
               <div>Developer</div>
               <div>Indian</div>

@@ -30,7 +30,7 @@ const Projects =()=>{
 
         },
         {
-            name:'Fitness Trainig Website',
+            name:'Fitness Training Website',
             des:'Developed a comprehensive Fitness Training website that includes features for client interaction and a fitness query chatbot to address client questions and concerns',
             mission:'Frontend Development',
             languages:'HTML, CSS, JavaScript.',
